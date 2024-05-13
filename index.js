@@ -1,7 +1,7 @@
 const products = [
     {
       name: 'Sony Playstation 5',
-      url: '/img/playstation_5.png',
+      url: 'img/playstation_5.png',
       category: 'games',
       price: 499.99,
     },
